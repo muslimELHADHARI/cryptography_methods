@@ -1,6 +1,6 @@
 # Cryptography Methods
 
-Welcome to the Cryptography Methods repository! This project provides an in-depth exploration of various cryptographic algorithms and techniques, including both classic and modern methods. Whether you're a student, a professional, or just a curious mind, this repository will serve as a comprehensive resource for understanding cryptography.
+Welcome to the Cryptography Methods repository! This project provides an in-depth exploration of various cryptographic algorithms and techniques well implemented using Java, including both classic and modern methods. Whether you're a student, a professional, or just a curious mind, this repository will serve as a comprehensive resource for understanding cryptography.
 
 ## Table of Contents
 
