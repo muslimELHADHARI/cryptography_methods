@@ -13,8 +13,7 @@ Welcome to the Cryptography Methods repository! This project provides an in-dept
   - [HashingAlgorithms](#HashingAlgorithms)
   - [Usage](#Usage)
   - [Contributing](#Contributing)
-  - [License](#License)
-
+  
 ## Introduction
 
 Cryptography is the practice of secure communication in the presence of third parties. This repository covers various cryptographic methods, providing implementations, explanations, and examples to help you understand and apply these techniques.
@@ -74,9 +73,6 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
